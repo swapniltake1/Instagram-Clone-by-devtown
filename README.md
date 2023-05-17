@@ -12,4 +12,5 @@ https://codesandbox.io/s/crimson-feather-2051vh?file=/index.html
 
 # Screenshots
 
+![image](https://github.com/swapniltake1/Instagram-Clone-by-devtown/assets/61576958/fc639838-1054-4f24-80f6-97616984f032)
 
